@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
-![images](https://github.com/fatmafeza182/kodluyoruzilkrepo.git)
+![images](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 # installation
 Projeyi klonlayın
